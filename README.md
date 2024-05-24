@@ -2,6 +2,8 @@
 
 This project is the PyTorch implementation of our IJCAI 2024 paper "DeepLight: Reconstructing High-Resolution Observations of Nighttime Light With Multi-Modal Remote Sensing Data".
 
+![An intuitive example of reconstructing HR NTL image in DeepLightMD using DeepLightSR. The modalities of Daytime Multispectral Observations (DMO), Digital Elevation Model (DEM), and Impervious Surface Product (ISP) are jointly utilized to boost the reconstruction of HR NTL images from LR NTL images.](figure1_4.png)
+
 
 ## General remarks
 
